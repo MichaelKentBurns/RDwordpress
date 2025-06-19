@@ -100,3 +100,10 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
+
+/********** Added parameters to solve problems ***************/
+/* How to fix the problem where installing or updating plugins or themes
+ * causes a mysterious popup asking for FTP credentials. 
+ * See https://logicox.com/how-to-fix-wordpress-asking-for-ftp-credentials/ 
+ */
+define('FS_METHOD', 'direct');
