@@ -52,6 +52,9 @@ It will have a link to the appropriate .md file for your convenience.
 
 ### 1. Find or install a LAMPP, WAMPP, or XAMPP stack.  (XAMPP is my recommendation because it works on Windows, Linux, and Mac)
 - However this can also be done with any Web server (Apache, NGINX) as long as you also have PHP, MySQL and JavaScript.
+- [Issue for step 1](https://github.com/MichaelKentBurns/RDwordpress/issues/1)
+- Notes/1_Find-or-install-XAMPP.md
+- [Note for step 1](https://github.com/MichaelKentBurns/RDwordpress/blob/main/Notes/1_Find-or-install-XAMPP.md)
 
 ### 2. Into that stack, install a fresh WordPress instance.
 
