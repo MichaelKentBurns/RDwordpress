@@ -55,20 +55,17 @@ It will have a link to the appropriate .md file for your convenience.
 - [Issue for step 1](https://github.com/MichaelKentBurns/RDwordpress/issues/1)
 - [Notes for step 1](https://github.com/MichaelKentBurns/RDwordpress/blob/main/Notes/1_Find-or-install-XAMPP.md)
 
-### 2. Into that stack, install a fresh WordPress instance.
+### 2. Into that stack, install a fresh WordPress instance, and save it in a git repository.
 
 - [Issue for step 2](https://github.com/MichaelKentBurns/RDwordpress/issues/2)
 - [Notes for step 2](https://github.com/MichaelKentBurns/RDwordpress/blob/main/Notes/2_Install-WordPress.md)
 
 
-### 3. Make that instance also a new Git repository and add that to GitHub.
-This step is now **obsolete** because it was moved into major step 2 steps 7-11 during the WP install.  So, disregard this now. 
-
-### 4. Get tools that can dump the WP SQL database files to text files for git tracking.
-This step is also **obsolete** because it was moved into major step 2, step 15-21.
+### 3. The former step 3 was folded into step 2.
+### 4. The former step 4 was folded into step 2.
 
 ### 5. Setup VS Code or equivalent set of Web development IDE or command line tools.
 
 ### 6. Install some development related WordPress plugins and themes.
 
-### 7. 
+### 7. ... more to come ...
