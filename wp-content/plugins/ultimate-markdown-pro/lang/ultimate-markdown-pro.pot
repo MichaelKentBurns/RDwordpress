@@ -1,0 +1,808 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Markdown Pro\n"
+"POT-Creation-Date: 2024-06-20 16:34+0200\n"
+"PO-Revision-Date: 2022-06-07 10:18+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: blocks\n"
+"X-Poedit-SearchPathExcluded-1: admin/assets/inc\n"
+"X-Poedit-SearchPathExcluded-2: vendor\n"
+"X-Poedit-SearchPathExcluded-3: node_modules\n"
+"X-Poedit-SearchPathExcluded-4: admin/react/options-menu/node_modules\n"
+"X-Poedit-SearchPathExcluded-5: admin/react/options-menu/build\n"
+
+#: admin/class-daextulmap-admin.php:111 admin/class-daextulmap-admin.php:758
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:324
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:384
+#: shared/class-daextulmap-shared.php:928
+msgid "Documents"
+msgstr ""
+
+#: admin/class-daextulmap-admin.php:117 admin/class-daextulmap-admin.php:767
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:436
+msgid "Categories"
+msgstr ""
+
+#: admin/class-daextulmap-admin.php:123 admin/class-daextulmap-admin.php:776
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:34
+msgid "Tools"
+msgstr ""
+
+#: admin/class-daextulmap-admin.php:131 admin/class-daextulmap-admin.php:785
+#: admin/inc/menu/child/class-daextulmap-options-menu-elements.php:26
+#: admin/inc/menu/child/class-daextulmap-options-menu-elements.php:27
+msgid "Options"
+msgstr ""
+
+#: admin/class-daextulmap-admin.php:282
+#: admin/inc/menu/class-daextulmap-menu-elements.php:311
+#: admin/inc/menu/class-daextulmap-menu-elements.php:369
+msgid "Delete"
+msgstr ""
+
+#: admin/class-daextulmap-admin.php:283
+msgid "Cancel"
+msgstr ""
+
+#: admin/class-daextulmap-admin.php:428
+msgid "Not set"
+msgstr ""
+
+#: admin/class-daextulmap-admin.php:747
+msgid "UM"
+msgstr ""
+
+#: admin/class-daextulmap-admin.php:748
+msgid "Markdown"
+msgstr ""
+
+#: admin/class-daextulmap-admin.php:757
+msgid "UM - Documents"
+msgstr ""
+
+#: admin/class-daextulmap-admin.php:766
+msgid "UM - Categories"
+msgstr ""
+
+#: admin/class-daextulmap-admin.php:775
+msgid "UM - Tools"
+msgstr ""
+
+#: admin/class-daextulmap-admin.php:784
+msgid "UM - Options"
+msgstr ""
+
+#: admin/class-daextulmap-admin.php:793 admin/class-daextulmap-admin.php:794
+msgid "Help & Support"
+msgstr ""
+
+#: admin/inc/class-daextulmap-export.php:70
+#: admin/inc/class-daextulmap-export.php:105
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:215
+#: admin/inc/menu/class-daextulmap-menu-elements.php:1307
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: admin/inc/class-daextulmap-export.php:213
+msgid "Invalid HTML in converted post."
+msgstr ""
+
+#: admin/inc/class-daextulmap-pagination.php:168
+msgid "of"
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-category-menu-elements.php:92
+msgid "Please enter a valid value in the \"Name\" field."
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-category-menu-elements.php:101
+msgid "Please enter a valid value in the \"Description\" field."
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-category-menu-elements.php:128
+msgid "The category has been successfully updated."
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-category-menu-elements.php:151
+msgid "The category has been successfully added."
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-category-menu-elements.php:177
+msgid "Name"
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-category-menu-elements.php:178
+msgid "The name of the category."
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-category-menu-elements.php:187
+msgid "Description"
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-category-menu-elements.php:188
+msgid "The description of the category."
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-category-menu-elements.php:212
+msgid "This category is associated with one or more AIL and can't be deleted."
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-document-menu-elements.php:93
+msgid "Please enter a valid value in the \"Title\" field."
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-document-menu-elements.php:123
+msgid "The document has been successfully updated."
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-document-menu-elements.php:146
+msgid "The document has been successfully added."
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-document-menu-elements.php:171
+#: shared/class-daextulmap-shared.php:329
+#: shared/class-daextulmap-shared.php:669
+#: shared/class-daextulmap-shared.php:863
+#: shared/class-daextulmap-shared.php:887
+msgid "None"
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-document-menu-elements.php:186
+msgid "Title"
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-document-menu-elements.php:187
+msgid "The title of the document."
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-document-menu-elements.php:196
+#: shared/class-daextulmap-shared.php:960
+msgid "Category"
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-document-menu-elements.php:197
+msgid "The category of the document."
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-document-menu-elements.php:205
+msgid "Content"
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-document-menu-elements.php:206
+msgid "The Markdown text of the document."
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:33
+msgid "Tool"
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:122
+msgid "The following documents have been generated:"
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:183
+msgid "The following posts have been successfully created:"
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:302
+#: shared/class-daextulmap-shared.php:945
+msgid "Import"
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:319
+#: shared/class-daextulmap-shared.php:918
+msgid "Destination"
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:325
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:385
+#: shared/class-daextulmap-shared.php:932
+msgid "Posts"
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:328
+msgid "todo."
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:336
+msgid "Choose file"
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:338
+msgid "No file chosen"
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:348
+msgid "Upload file and import"
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:368
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:518
+#: admin/inc/menu/class-daextulmap-menu-elements.php:301
+#: shared/class-daextulmap-shared.php:972
+msgid "Export"
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:379
+msgid "Source"
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:388
+msgid ""
+"The source of the export. Select \"Documents\" to export all the Markdown "
+"documents stored in the plugin or \"Posts\" to export all the WordPress "
+"posts that meet the criteria defined in the \"Advanced\" section."
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:395
+msgid "Post Types"
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:426
+msgid ""
+"With this option you are able to determine which post types will be included "
+"in the export. Note that this option will be considered only if the source "
+"of the export is equal to \"Posts\"."
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:463
+msgid ""
+"With this option you are able to determine which categories will be included "
+"in the export. Note that this option will be considered only if the source "
+"of the export is equal to \"Posts\"."
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:474
+msgid "Tags"
+msgstr ""
+
+#: admin/inc/menu/child/class-daextulmap-tools-menu-elements.php:503
+msgid ""
+"With this option you are able to determine which tags will be included in "
+"the export. Note that this option will be considered only if the source of "
+"the export is equal to \"Posts\"."
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:368
+msgid "Bulk actions"
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:373
+msgid "Apply"
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:381
+msgid "items"
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:395
+msgid "There are no results that match your filter."
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:408
+msgid "Nothing to show yet! Add some items by clicking the Add New button."
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:435
+#: admin/inc/menu/class-daextulmap-menu-elements.php:452
+msgid "Add New"
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:437
+msgid "Edit"
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:459
+msgid "Save Changes"
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:912
+msgid "Ultimate Markdown"
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:936
+msgid "More"
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:953
+#: admin/inc/menu/class-daextulmap-menu-elements.php:1010
+msgid "PRO"
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:975
+msgid "Unlock Extra Features with UM Pro"
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:1009
+msgid "Unlock Advanced Features with Ultimate Markdown Pro"
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:1015
+msgid ""
+"Choose your favorite Markdown parser, automatically upload the referenced "
+"images, import articles in the Classic Editor, send Markdown files to "
+"WordPress using the REST API, convert WordPress articles to Markdown files, "
+"and more!"
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:1023
+msgid "Learn More"
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:1029
+msgid "View Pricing & Upgrade"
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:1102
+msgid "Built for WordPress creators by the DAEXT team"
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:1106
+msgid "More Tools from DAEXT"
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:1142
+msgid "The item has been successfully duplicated."
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:1198
+msgid "The item has been successfully deleted."
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:1279
+msgid "items have been successfully deleted."
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:1288
+msgid "The"
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:1288
+msgid ""
+"with the following IDs are used in one or more automatic links and can't be "
+"deleted:"
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:1358
+msgid "Delete the item?"
+msgstr ""
+
+#: admin/inc/menu/class-daextulmap-menu-elements.php:1362
+msgid ""
+"This item will be permanently deleted and cannot be recovered. Are you sure?"
+msgstr ""
+
+#: admin/react/options-menu/src/App.js:303
+msgid "Loading data..."
+msgstr ""
+
+#: admin/react/options-menu/src/components/CardHeader.js:13
+msgid "Save settings"
+msgstr ""
+
+#: admin/react/options-menu/src/components/DismissibleNotice.js:13
+msgid "Updated settings."
+msgstr ""
+
+#: admin/react/options-menu/src/components/SelectMultipleField.js:75
+msgid "Choose an Option ..."
+msgstr ""
+
+#: admin/react/options-menu/src/components/TooltipIcon.js:37
+msgid "Learn more"
+msgstr ""
+
+#: class-daextulmap-ajax.php:78 class-daextulmap-ajax.php:131
+#: class-daextulmap-ajax.php:190
+msgid "Invalid AJAX Request"
+msgstr ""
+
+#: class-daextulmap-ajax.php:84 class-daextulmap-ajax.php:137
+#: class-daextulmap-ajax.php:196
+msgid "Invalid Capability"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:689
+msgid "Conversion"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:690
+msgid "Customize options related to HTML to Markdown conversion."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:693
+msgid "Import (Posts)"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:697
+msgid "Parser"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:700
+msgid ""
+"The parser used to perform the Markdown to HTML conversion during the import "
+"process executed in the \"Tools\" menu. Note that the HTML to Markdown "
+"conversion is performed only when the selected destination is \"Posts\"."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:703
+msgid "Select the parser used to perform the Markdown to HTML conversions."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:707
+msgid "Parsedown"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:711
+msgid "Parsedown Extra"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:715
+msgid "Cebe Markdown"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:719
+msgid "Cebe Markdown Github"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:723
+msgid "Cebe Markdown Extra"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:729
+msgid "Cebe Markdown HTML5"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:732
+msgid ""
+"Activate this option to enable HTML5 output instead of HTML4. This feature "
+"is applied only if one of the three \"Cebe Markdown\" parsers is used."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:735
+msgid "Enable HTML5 output instead of HTML4."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:739
+msgid "Cebe Markdown List Start"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:742
+msgid ""
+"Activate this option to keep the number in the ordered lists as specified in "
+"the Markdown. The default behavior is to always start from 1 and increment "
+"by one regardless of the number specified in the Markdown. This feature is "
+"applied only if one of the three \"Cebe Markdown\" parsers is used."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:745
+msgid "Keep the number in the ordered lists as specified in the Markdown."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:749
+msgid "Cebe Markdown New Lines"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:752
+msgid ""
+"Activate this option to convert all the newlines to \"br\" tags. By default "
+"only the newlines with two preceding spaces are converted to <br/> tags. "
+"This feature is applied only if the \"Cebe Markdown GitHub\" parser is used."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:755
+msgid "Convert all the newlines to \"br\" tags."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:760
+msgid "Image Upload"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:764
+msgid "Tools Menu (Documents)"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:767
+msgid ""
+"With this option enabled, the images referenced in the Markdown document "
+"will be uploaded to the media library. This change will affect the imports "
+"executed with the \"Tools\" menu and \"Documents\" as the destination."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:770
+msgid ""
+"Upload the images to the media library when imports with \"Documents\" as a "
+"destination are performed."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:774
+msgid "Tools Menu (Posts)"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:777
+msgid ""
+"With this option enabled, the images referenced in the Markdown document "
+"will be uploaded to the media library. This change will affect the imports "
+"executed with the \"Tools\" menu and \"Posts\" as the destination."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:780
+msgid ""
+"Upload the images to the media library when imports with \"Posts\" as a "
+"destination are performed."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:784
+msgid "Import Markdown (Editor Sidebar Section)"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:787
+msgid ""
+"With this option enabled, the images referenced in the Markdown document "
+"will be uploaded to the media library. This change will affect the imports "
+"executed with the \"Import Markdown\" block editor sidebar section."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:790
+msgid ""
+"Upload the images to the media library when imports are performed from the "
+"\"Import Markdown\" block editor sidebar section."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:794
+msgid "Load Markdown (Editor Sidebar Section)"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:797
+msgid ""
+"With this option enabled, the images referenced in the Markdown document "
+"will be uploaded to the media library. This change will affect the imports "
+"executed with the \"Load Markdown\" block editor sidebar section."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:800
+msgid ""
+"Upload the images to the media library when imports are performed from the "
+"\"Load Markdown\" block editor sidebar section."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:804
+msgid "Submit Markdown (Editor Sidebar Section)"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:807
+msgid ""
+"With this option enabled, the images referenced in the Markdown document "
+"will be uploaded to the media library. This change will affect the imports "
+"executed with the \"Submit Markdown\" block editor sidebar."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:810
+msgid ""
+"Upload the images to the media library when imports are performed from the "
+"\"Submit Markdown\" block editor sidebar section."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:814
+msgid "REST API (Posts)"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:817
+msgid ""
+"With this option enabled, the images referenced in the Markdown document "
+"will be uploaded to the media library. This change will affect the imports "
+"executed with the \"Import Documents\" REST API endpoint when the "
+"\"Destination\" option is set to \"Posts\"."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:820
+msgid ""
+"Upload the images to the media library when documents are sent using the "
+"REST API and the \"REST API Import Type\" option is set to \"Classic\"."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:824
+msgid "REST API (Documents)"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:827
+msgid ""
+"With this option enabled, the images referenced in the Markdown document "
+"will be uploaded to the media library. This change will affect the imports "
+"executed with the \"Import Documents\" REST API endpoint when the "
+"\"Destination\" option is set to \"Documents\"."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:830
+msgid ""
+"Upload the images to the media library when documents are sent using the "
+"REST API and the \"REST API Import Type\" option is set to \"Documents\"."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:837
+msgid "REST API"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:838
+msgid "Configure the behavior of the REST API endpoints."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:841
+msgid "Authentication"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:845
+msgid "Authentication (Read)"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:848
+msgid ""
+"This option determines the type of authentication required to get access on "
+"the REST API endpoints of type \"Read\"."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:851
+#: shared/class-daextulmap-shared.php:875
+msgid ""
+"Select the type of authentication required to get access on the REST API "
+"endpoints of type \"Create\"."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:855
+#: shared/class-daextulmap-shared.php:879
+msgid "Cookies"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:859
+#: shared/class-daextulmap-shared.php:883
+msgid "REST API Key"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:869
+msgid "Authentication (Create)"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:872
+msgid ""
+"This option determines the type of authentication required to get access on "
+"the REST API endpoints of type \"Create\"."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:893
+msgid "Key"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:896
+msgid ""
+"The REST API key. This option is used only if the \"Authentication (Read)\" "
+"option is set to \"REST API Key\"."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:899
+msgid "Set the REST API key."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:903
+msgid "Required Capability"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:906
+#: shared/class-daextulmap-shared.php:909
+msgid "The capability required to get access on the REST API."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:914
+msgid "Processing"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:921
+msgid ""
+"The the destination of the items created by the import process performed "
+"with the REST API import endpoint."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:924
+msgid ""
+"Select the destination of the items created by the import process performed "
+"with the REST API import endpoint."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:941
+msgid "Advanced"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:942
+msgid "Manage advanced plugin settings."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:949
+msgid "Post Type"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:952
+msgid ""
+"The post type to which the plugin should assign the posts generated with the "
+"\"Tools\" menu. This option only is used if the destination of the import "
+"process is \"Posts\"."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:955
+msgid "Select the post type of the imported documents."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:963
+msgid ""
+"This option determines the category of the imported documents, the category "
+"of the documents submitted with the plugin REST API, and the default value "
+"of the \"Category\" field available in the \"Documents\" menu."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:966
+msgid "Select the category of the imported documents."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:976
+msgid "File Extension"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:979
+msgid ""
+"This option determines the file extension of the files exported using the "
+"\"Export Markdown\" editor sidebar section and the file extension of the "
+"files included in the compressed archives generated with the \"Tools\" menu."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:982
+msgid "Select the extension of the exported files."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:988
+msgid "Capabilities"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:992
+msgid "Documents Menu"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:995
+msgid "The capability required to get access on the \"Documents\" menu."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:998
+msgid "The capability required to access the \"Documents\" menu."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:1002
+msgid "Categories Menu"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:1005
+msgid "The capability required to get access on the \"Categories\" menu."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:1008
+msgid "The capability required to access the \"Categories\" menu."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:1012
+msgid "Tools Menu"
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:1015
+msgid "The capability required to get access on the \"Tools\" menu."
+msgstr ""
+
+#: shared/class-daextulmap-shared.php:1018
+msgid "The capability required to access the \"Tools\" menu."
+msgstr ""

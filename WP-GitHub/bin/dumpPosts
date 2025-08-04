@@ -1,0 +1,8 @@
+#!/bin/bash
+for postId in `wp post list --post_type=post --fields=ID --format=ids`;
+  do 
+	  name=`wp post get $postId --field=name`
+	  echo ========== post $postId = $name ====
+	  wp post get $postId --field=content>.posts/post-$name.wpmu;
+  done
+

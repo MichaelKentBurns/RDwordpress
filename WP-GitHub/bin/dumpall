@@ -1,0 +1,5 @@
+#!/bin/bash
+for tab in wp_comments wp_commentmeta wp_links wp_options wp_postmeta wp_posts wp_usermeta wp_users;
+  do mariadb-dump -u $un $db $tab >.data/$tab.sql;
+  done
+
