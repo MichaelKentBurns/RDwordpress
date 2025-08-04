@@ -1,6 +1,6 @@
 #echo .bash_aliases run
-export WP_GIT_UPDATER_GIT_TOKEN='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'
-export WP_GIT_UPDATER_TOKEN='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'
+export WP_GIT_UPDATER_GIT_TOKEN='<Your Personal Access Token Here>'
+export     WP_GIT_UPDATER_TOKEN='<Your Personal Access Token Here>'
 export EDITOR='/usr/bin/vi'
 export SETUP=.bash_aliases
 alias dblogin='mariadb -u $un -p $db'
