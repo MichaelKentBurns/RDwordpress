@@ -66,6 +66,14 @@ It will have a link to the appropriate .md file for your convenience.
 
 ### 5. Setup VS Code or equivalent set of Web development IDE or command line tools.
 
+- [Issue for step 5](https://github.com/MichaelKentBurns/RDwordpress/issues/5)
+- [Notes for step 5](https://github.com/MichaelKentBurns/RDwordpress/blob/main/Notes/5-Setup-dev-tools.md)
+
+
 ### 6. Install some development related WordPress plugins and themes.
+
+- [Issue for step 6](https://github.com/MichaelKentBurns/RDwordpress/issues/6)
+- [Notes for step 6](https://github.com/MichaelKentBurns/RDwordpress/blob/main/Notes/6_Install-development-plugins.md)
+
 
 ### 7. ... more to come ...
